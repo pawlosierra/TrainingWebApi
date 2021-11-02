@@ -1,0 +1,12 @@
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Application\bin\Debug\netcoreapp3.1\TrainingWebApi.Domain.dll
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Application\obj\Debug\netcoreapp3.1\TrainingWebApi.Application.csprojAssemblyReference.cache
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Application\obj\Debug\netcoreapp3.1\TrainingWebApi.Application.AssemblyInfoInputs.cache
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Application\obj\Debug\netcoreapp3.1\TrainingWebApi.Application.AssemblyInfo.cs
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Application\bin\Debug\netcoreapp3.1\TrainingWebApi.Application.deps.json
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Application\bin\Debug\netcoreapp3.1\TrainingWebApi.Application.dll
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Application\bin\Debug\netcoreapp3.1\TrainingWebApi.Application.pdb
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Application\bin\Debug\netcoreapp3.1\TrainingWebApi.Domain.pdb
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Application\obj\Debug\netcoreapp3.1\TrainingWebApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Application\obj\Debug\netcoreapp3.1\TrainingWebApi.Application.csproj.CopyComplete
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Application\obj\Debug\netcoreapp3.1\TrainingWebApi.Application.dll
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Application\obj\Debug\netcoreapp3.1\TrainingWebApi.Application.pdb

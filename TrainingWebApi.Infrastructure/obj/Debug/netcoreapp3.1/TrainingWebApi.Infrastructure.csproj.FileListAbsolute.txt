@@ -1,0 +1,17 @@
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\bin\Debug\netcoreapp3.1\TrainingWebApi.Domain.dll
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\obj\Debug\netcoreapp3.1\TrainingWebApi.Infrastructure.csprojAssemblyReference.cache
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\obj\Debug\netcoreapp3.1\TrainingWebApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\obj\Debug\netcoreapp3.1\TrainingWebApi.Infrastructure.AssemblyInfo.cs
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\bin\Debug\netcoreapp3.1\TrainingWebApi.Infrastructure.deps.json
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\bin\Debug\netcoreapp3.1\TrainingWebApi.Infrastructure.dll
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\bin\Debug\netcoreapp3.1\TrainingWebApi.Infrastructure.pdb
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\bin\Debug\netcoreapp3.1\TrainingWebApi.Domain.pdb
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\obj\Debug\netcoreapp3.1\TrainingWebApi.Infrastructure.csproj.CopyComplete
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\obj\Debug\netcoreapp3.1\TrainingWebApi.Infrastructure.dll
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\obj\Debug\netcoreapp3.1\TrainingWebApi.Infrastructure.pdb
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\bin\Debug\netcoreapp3.1\TrainingWebApi.Infrastructure.runtimeconfig.json
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\bin\Debug\netcoreapp3.1\TrainingWebApi.Infrastructure.runtimeconfig.dev.json
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\obj\Debug\netcoreapp3.1\TrainingWebApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\JuanPawloSierra\source\repos\TrainingWebApi\TrainingWebApi.Infrastructure\obj\Debug\netcoreapp3.1\TrainingWebApi.Infrastructure.genruntimeconfig.cache

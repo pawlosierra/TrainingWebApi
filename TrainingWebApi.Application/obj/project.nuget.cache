@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jSv/VjVAfZ4EZQA64ukWygrIimrLMG/rEfSZ7NwwF2YI2d6M/JkqeiWyF3PBYyibcivWybXTFIfY3hpXO1xUWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JuanPawloSierra\\source\\repos\\TrainingWebApi\\TrainingWebApi.Application\\TrainingWebApi.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JuanPawloSierra\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
